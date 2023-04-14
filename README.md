@@ -17,7 +17,7 @@
 - 컴퓨터공학 학위 취득 아직 못함
 
 ## 기술 스택
-- 언어: Java, C, Python, LISP...
+- 언어: Java, C, Python, LISP
 - 프레임워크: 
 - 데이터베이스: MySQL
 - 기타: 
